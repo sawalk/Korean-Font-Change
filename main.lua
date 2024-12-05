@@ -1,1 +1,1 @@
-KoreanFontChange = RegisterMod("Korean Font Change", 1)
+KoreanFontChange = RegisterMod("Korean Font Change", 1);

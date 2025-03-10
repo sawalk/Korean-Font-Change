@@ -1,0 +1,5 @@
+<sounds root="sfx/">
+	<sound name="Good Night Ojosama">
+		<sample weight="1" path="ASMRZ.wav"/>
+	</sound>
+</sounds>

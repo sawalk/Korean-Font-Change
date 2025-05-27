@@ -3,8 +3,33 @@
     <name>z Korean Font Change</name>
     <directory>! korean font change</directory>
     <id>3322498790</id>
-    <description>[b] !!!This mod is for Koreans only. Change your Steam language to Korean to view the mod description!!! [/b]</description>
-    <version>1.27</version>
+    <description>기존 게임에 사용된 Lanapixel과 타이포_뾰로롱, 윤디자인웹돋움을 다른 폰트로 교체하는 모드입니다. 언어가 한국어로 설정되어야 작동합니다. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3124459064]한국어 번역+[/url]와 대응되며, 한국어 번역+ 설치 시 기본값으로 이 모드도 설치됩니다. 필수 모드가 아닙니다!
+
+정상적인 문자가 잘리는 등의 문제가 있다면 제보 바랍니다.
+
+[table]
+    [tr]
+        [th]기존 폰트[/th]
+        [th]새로 적용되는 폰트[/th]
+        [th]비고[/th]
+    [/tr]
+    [tr]
+        [th]윤디자인웹돋움12[/th]
+        [th]어비 세현체[/th]
+        [th]어비 세현체의 일부 글리프가 수정되었습니다.[/th]
+    [/tr]
+    [tr]
+        [th]Lanapixel[/th]
+        [th]Yoon px 아케이드 + PF Tempesta Seven[/th]
+        [th]Yoon px 아케이드의 일부 글리프가 수정되었습니다.[/th]
+    [/tr]
+    [tr]
+        [th]타이포_뾰로롱, 윤디자인웹돋움14[/th]
+        [th]굵은둥근모 + Upheaval TT BRK[/th]
+        [th]'둥근모꼴'을 기반으로 한 자체 제작 폰트입니다. (배포 예정 없음)[/th]
+    [/tr]
+[/table]</description>
+    <version>1.29</version>
     <visibility>Public</visibility>
     <tag id="Tweaks"/>
     <tag id="Graphics"/>

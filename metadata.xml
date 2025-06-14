@@ -26,10 +26,10 @@
     [tr]
         [th]타이포_뾰로롱, 윤디자인웹돋움14[/th]
         [th]굵은둥근모 + Upheaval TT BRK[/th]
-        [th]'둥근모꼴'을 기반으로 한 자체 제작 폰트입니다. (배포 예정 없음)[/th]
+        [th]'[url=https://github.com/sawalk/Korean-Font-Change/releases/latest]둥근모꼴'을 기반으로 한 자체 제작 폰트입니다.[/url][/th]
     [/tr]
 [/table]</description>
-    <version>1.29</version>
+    <version>1.30</version>
     <visibility>Public</visibility>
     <tag id="Tweaks"/>
     <tag id="Graphics"/>

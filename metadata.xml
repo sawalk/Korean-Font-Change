@@ -15,21 +15,21 @@
     [/tr]
     [tr]
         [th]윤디자인웹돋움12[/th]
-        [th]어비 세현체[/th]
+        [th]어비 세현체 + Team Meat Font[/th]
         [th]어비 세현체의 일부 글리프가 수정되었습니다.[/th]
     [/tr]
     [tr]
         [th]Lanapixel[/th]
-        [th]Yoon px 아케이드 + PF Tempesta Seven[/th]
-        [th]Yoon px 아케이드의 일부 글리프가 수정되었습니다.[/th]
+        [th]물마루 + PF Tempesta Seven[/th]
+        [th]PF Tempesta Seven의 일부 글리프가 수정되었습니다.[/th]
     [/tr]
     [tr]
         [th]타이포_뾰로롱, 윤디자인웹돋움14[/th]
-        [th]굵은둥근모 + Upheaval TT BRK[/th]
-        [th]'[url=https://github.com/sawalk/Korean-Font-Change/releases/latest]둥근모꼴'을 기반으로 한 자체 제작 폰트입니다.[/url][/th]
+        [th]굵은둥근모[/th]
+        [th]'둥근모꼴'을 기반으로 한 자체 제작 폰트입니다.[/th]
     [/tr]
 [/table]</description>
-    <version>1.30</version>
+    <version>1.32</version>
     <visibility>Public</visibility>
     <tag id="Tweaks"/>
     <tag id="Graphics"/>

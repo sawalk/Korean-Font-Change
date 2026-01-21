@@ -3,9 +3,9 @@
     <name>z Korean Font Change</name>
     <directory>! korean font change</directory>
     <id>3322498790</id>
-    <description>기존 게임에 사용된 Lanapixel과 타이포_뾰로롱, 윤디자인웹돋움을 다른 폰트로 교체하는 모드입니다. 언어가 한국어로 설정되어야 작동합니다. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3124459064]한국어 번역+[/url]와 대응되며, 한국어 번역+ 설치 시 기본값으로 이 모드도 설치됩니다. 필수 모드가 아닙니다!
+    <description>기존 게임에 사용된 Lanapixel과 타이포_뾰로롱, 윤디자인웹돋움을 다른 폰트로 교체하는 모드입니다. 언어가 한국어로 설정되어야 작동합니다.
 
-정상적인 문자가 잘리는 등의 문제가 있다면 제보 바랍니다.
+정상적인 문자가 잘리는 등의 문제가 있다면 [url=https://github.com/sawalk/Korean-Font-Change/issues]여기에[/url]제보 바랍니다.
 
 [table]
     [tr]
@@ -29,7 +29,7 @@
         [th]'둥근모꼴'을 기반으로 한 자체 제작 폰트입니다.[/th]
     [/tr]
 [/table]</description>
-    <version>1.32</version>
+    <version>1.33</version>
     <visibility>Public</visibility>
     <tag id="Tweaks"/>
     <tag id="Graphics"/>
